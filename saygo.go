@@ -1,5 +1,5 @@
 package saymodul
 
 func SayModul() string {
-	return "Hai"
+	return "hello guys"
 }
